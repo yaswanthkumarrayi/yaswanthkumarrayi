@@ -76,7 +76,7 @@ fun_fact:     "I turn ideas into scalable products — fast."
 
 <br/>
 
-<img src="https://ghchart.rshah.org/yaswanthkumarrayi" width="100%" alt="yaswanthkumarrayi's github contribution graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yaswanthkumarrayi&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="contribution activity graph"/>
 
 </div>
 
