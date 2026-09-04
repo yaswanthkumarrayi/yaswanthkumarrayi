@@ -90,30 +90,6 @@ fun_fact:     "I turn ideas into scalable products — fast."
 
 <br/>
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/yaswanthkumarrayi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yaswanthkumarrayi&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/yaswanthkumarrayi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yaswanthkumarrayi&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/yaswanthkumarrayi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yaswanthkumarrayi&repo=REPO_NAME_3&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/yaswanthkumarrayi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yaswanthkumarrayi&repo=REPO_NAME_4&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-> ⚙️ Replace `REPO_NAME_1..4` above with your actual repository names (case-sensitive) to pin your best work here.
-
-<br/>
-
 ## 🤝 Connect With Me
 
 <div align="center">
