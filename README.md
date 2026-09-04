@@ -76,6 +76,10 @@ fun_fact:     "I turn ideas into scalable products — fast."
 
 <br/>
 
+<img src="https://streak-stats.demolab.com/?user=yaswanthkumarrayi&theme=tokyonight&hide_border=true" alt="yaswanthkumarrayi streak stats"/>
+
+<br/>
+
 <img src="https://ghchart.rshah.org/0e75b6/yaswanthkumarrayi" width="100%" alt="yaswanthkumarrayi's github contribution graph"/>
 
 </div>
