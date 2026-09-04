@@ -80,17 +80,24 @@ fun_fact:     "I turn ideas into scalable products — fast."
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yaswanthkumarrayi&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="contribution activity graph"/>
+<img src="https://ghchart.rshah.org/0e75b6/yaswanthkumarrayi" width="100%" alt="yaswanthkumarrayi's github contribution graph"/>
 
 </div>
 
 <br/>
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yaswanthkumarrayi&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="yaswanthkumarrayi trophies"/>
+
+<img src="https://img.shields.io/badge/🏆-3X%20Hackathon%20Winner-0e75b6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀-Founder%20@%20NIVA-0ea5e9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧠-C%2B%2B%20%7C%20DSA%20Practitioner-00599C?style=for-the-badge"/>
+
 </div>
+
+> ⚙️ Note: The GitHub Trophy widget (`github-profile-trophy.vercel.app`) is currently returning a 402/service-outage error across the whole platform, not just this README — so it's swapped for static badges above that will never break. Once the service is back up, you can re-add it with:
+> `![trophy](https://github-profile-trophy.vercel.app/?username=yaswanthkumarrayi&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10)`
 
 <br/>
 
