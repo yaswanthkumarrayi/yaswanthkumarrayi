@@ -1,30 +1,147 @@
-<h1 align="center">Hi 👋, I'm Yaswanth Kumar Rayi</h1>
-<h3 align="center">Founder @ NIVA | 3X Hackathon Winner | Technical Architect | Full-Stack & AI Developer | Scalable Web & App Systems | C++ DSA | Tech Entrepreneur</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yaswanthkumarrayi&label=Profile%20views&color=0e75b6&style=flat" alt="yaswanthkumarrayi" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0ea5e9&height=220&section=header&text=Yaswanth%20Kumar%20Rayi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20@%20NIVA%20|%20Technical%20Architect%20|%20Full-Stack%20&%20AI%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaswanthkumarrayi" alt="yaswanthkumarrayi" /></a> </p>
+<a href="https://linkedin.com/in/yaswanthkumarrayi">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Founder+%40+NIVA;3X+Hackathon+Winner;Technical+Architect;Full-Stack+%26+AI+Developer;Building+Scalable+Web+%26+App+Systems;C%2B%2B+DSA+Enthusiast;Tech+Entrepreneur&font=Fira%20Code&center=true&width=650&height=45&color=0e75b6&vCenter=true&size=22&pause=1200"/>
+</a>
 
-- 🔭 I’m currently working on **Building end-to-end software systems, digital products, AI solutions, and scalable technology for businesses**
+</div>
 
-- 🌱 I’m currently learning **I'm currently learning Advanced DSA, System Design, Cloud Computing, AI/ML, and modern software engineering practices**
-
-- 💬 Ask me about **Software Architecture, Full-Stack Development, AI Solutions, Web & App Development, Digital Business Growth, Automation, Startups, and C++ DSA**
-
-- 📫 How to reach me **yaswanthkumarrayi2007@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yaswanthkumarrayi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yaswanthkumarrayi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mr-yash-17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mr-yash-17" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/522240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="522240" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/yaswanthkumarrayi"><img src="https://img.shields.io/badge/LinkedIn-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/mr-yash-17"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.topcoder.com/members/522240"><img src="https://img.shields.io/badge/TopCoder-29A7DF?style=for-the-badge&logo=topcoder&logoColor=white"/></a>
+  <a href="mailto:yaswanthkumarrayi2007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yaswanthkumarrayi&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/yaswanthkumarrayi?label=Followers&style=for-the-badge&color=0ea5e9" alt="followers"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaswanthkumarrayi&show_icons=true&locale=en&layout=compact" alt="yaswanthkumarrayi" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaswanthkumarrayi&show_icons=true&locale=en" alt="yaswanthkumarrayi" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaswanthkumarrayi&" alt="yaswanthkumarrayi" /></p>
+```yaml
+founder:      "NIVA"
+role:         ["Technical Architect", "Full-Stack Developer", "AI Engineer"]
+achievements: "3X Hackathon Winner"
+currently_building: "End-to-end software systems, digital products, AI solutions, and scalable technology for businesses"
+currently_learning: "Advanced DSA, System Design, Cloud Computing, AI/ML, Modern Software Engineering"
+ask_me_about: ["Software Architecture", "Full-Stack Development", "AI Solutions", "Web & App Development", "Digital Business Growth", "Automation", "Startups", "C++ DSA"]
+reach_me_at:  "yaswanthkumarrayi2007@gmail.com"
+fun_fact:     "I turn ideas into scalable products — fast."
+```
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js&theme=dark" />
+
+**Frontend & Mobile**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,flutter,androidstudio&theme=dark" />
+
+**Backend & Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase&theme=dark" />
+
+**DevOps & Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,postman&theme=dark" />
+
+**Tools & Data**
+<br/>
+<img src="https://skillicons.dev/icons?i=figma,vscode,githubactions,matlab&theme=dark" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40" alt="pandas"/>
+
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=yaswanthkumarrayi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanthkumarrayi&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yaswanthkumarrayi&theme=tokyonight&hide_border=true" alt="yaswanthkumarrayi streak stats"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yaswanthkumarrayi&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="contribution activity graph"/>
+
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yaswanthkumarrayi&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="yaswanthkumarrayi trophies"/>
+</div>
+
+<br/>
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/yaswanthkumarrayi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yaswanthkumarrayi&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/yaswanthkumarrayi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yaswanthkumarrayi&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/yaswanthkumarrayi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yaswanthkumarrayi&repo=REPO_NAME_3&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/yaswanthkumarrayi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yaswanthkumarrayi&repo=REPO_NAME_4&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+> ⚙️ Replace `REPO_NAME_1..4` above with your actual repository names (case-sensitive) to pin your best work here.
+
+<br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/yaswanthkumarrayi" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0e75b6?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/mr-yash-17" target="_blank">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+</a>
+<a href="https://www.topcoder.com/members/522240" target="_blank">
+  <img src="https://img.shields.io/badge/-TopCoder-29A7DF?style=for-the-badge&logo=Topcoder&logoColor=white"/>
+</a>
+<a href="mailto:yaswanthkumarrayi2007@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💡 "Building scalable systems today, shaping the technology of tomorrow."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0e75b6&height=120&section=footer"/>
+
+</div>
