@@ -11,8 +11,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/yaswanthkumarrayi"><img src="https://img.shields.io/badge/LinkedIn-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://leetcode.com/mr-yash-17"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://www.topcoder.com/members/522240"><img src="https://img.shields.io/badge/TopCoder-29A7DF?style=for-the-badge&logo=topcoder&logoColor=white"/></a>
-  <a href="mailto:yaswanthkumarrayi2007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yaswanthkumarrayi2007@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center">
@@ -44,6 +43,8 @@ fun_fact:     "I turn ideas into scalable products — fast."
 **Languages**
 <br/>
 <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js&theme=dark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/C++-DSA%20%26%20Problem%20Solving-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
 **Frontend & Mobile**
 <br/>
@@ -59,7 +60,7 @@ fun_fact:     "I turn ideas into scalable products — fast."
 
 **Tools & Data**
 <br/>
-<img src="https://skillicons.dev/icons?i=figma,vscode,githubactions,matlab&theme=dark" />
+<img src="https://skillicons.dev/icons?i=figma,vscode,githubactions&theme=dark" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40" alt="pandas"/>
 
 </div>
@@ -75,7 +76,7 @@ fun_fact:     "I turn ideas into scalable products — fast."
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yaswanthkumarrayi&theme=tokyonight&hide_border=true" alt="yaswanthkumarrayi streak stats"/>
+<img src="https://streak-stats.demolab.com/?user=yaswanthkumarrayi&theme=tokyonight&hide_border=true" alt="yaswanthkumarrayi streak stats"/>
 
 <br/>
 
@@ -127,10 +128,7 @@ fun_fact:     "I turn ideas into scalable products — fast."
 <a href="https://leetcode.com/mr-yash-17" target="_blank">
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
 </a>
-<a href="https://www.topcoder.com/members/522240" target="_blank">
-  <img src="https://img.shields.io/badge/-TopCoder-29A7DF?style=for-the-badge&logo=Topcoder&logoColor=white"/>
-</a>
-<a href="mailto:yaswanthkumarrayi2007@gmail.com" target="_blank">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=yaswanthkumarrayi2007@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
 </a>
 
